@@ -6,7 +6,7 @@
 ***
 
 ## Snapshots
-![Image](Screenshot Tetris.png)
+![Image](https://github.com/Jaimek89/react-tetris/blob/main/react-tetris/Screenshot%20Tetris.png)
 
 ***
 
