@@ -6,7 +6,7 @@
 ***
 
 ## Snapshots
-![alt text](https://github.com/[Jaimek89]/[react-tetris]/blob/[master]/Snapshot React Tetris.jpg?raw=true)
+![Image](https://github.com/Jaimek89/react-tetris/blob/master/Snapshot React Tetris.jpg?raw=true)
 ***
 
 ## Tecnologies
